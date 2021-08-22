@@ -1,2 +1,2 @@
-# template-extension
-Template for pure java minestom extensions
+# resourcepack-test
+Minestom extension for tests with resourcepacks
